@@ -1,0 +1,17 @@
+hash: 7e3b1323c77d149bdc1f79be91f3aee2b87213743967ab324429cf3b46f7d0e9
+updated: 2017-09-28T16:23:57.5693932+02:00
+imports:
+- name: github.com/fatih/color
+  version: 5df930a27be2502f99b292b7cc09ebad4d0891f4
+- name: github.com/hpcloud/tail
+  version: 37f4271387456dd1bf82ab1ad9229f060cc45386
+  subpackages:
+  - ratelimiter
+  - util
+  - watch
+  - winfile
+- name: gopkg.in/fsnotify.v1
+  version: 7be54206639f256967dd82fa767397ba5f8f48f5
+- name: gopkg.in/tomb.v1
+  version: c131134a1947e9afd9cecfe11f4c6dff0732ae58
+testImports: []

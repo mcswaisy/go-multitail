@@ -1,0 +1,4 @@
+package: github.com/mcswaisy/go-multitail
+import:
+- package: github.com/hpcloud/tail
+- package: github.com/fatih/color
